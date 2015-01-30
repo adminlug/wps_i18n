@@ -6,66 +6,66 @@
     <name>AdvQueryDlgUi</name>
     <message>
         <source>Advanced Query</source>
-        <translation type="unfinished"></translation>
+        <translation type=Розширений запит></translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type=Сортування></translation>
     </message>
     <message>
         <source>&amp;Add to the list</source>
-        <translation type="unfinished"></translation>
+        <translation type=&amp;Додати до списку></translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation type=&amp;Видалити зі списку></translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type=Фільтр></translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type=Тип:></translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation type=Підказка></translation>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation type="unfinished"></translation>
+        <translation type=Додати до списку(&amp;R)></translation>
     </message>
     <message>
         <source>D&amp;elete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation type=&amp;Видалити зі списку></translation>
     </message>
 </context>
 <context>
     <name>ChangeFileAccess</name>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type=Ви внесли зміни до &quot;%s&quot;.></translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation type=Інший користувач також вніс зміни. Ваші дії?></translation>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation type=Натисніть &quot;Скасувати&quot;, щоб скасувати зміни і виправити останню версію.></translation>
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation type=Натисніть &quot;Зберегти як&quot;, щоб зберегти внесені зміни в інший файл і відкрити останню версію.></translation>
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
+        <translation type=Скасувати></translation>
     </message>
     <message>
         <source>&amp;Save as</source>
-        <translation type="unfinished"></translation>
+        <translation type=Зберегти як></translation>
     </message>
     <message>
         <source>Cancel</source>
