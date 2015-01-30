@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation type=Використовувати ODBC керівництво по з'єднанню з джерелом даних (W)></translation>
+        <translation type=Використовувати ODBC керівництво по з`єднанню з джерелом даних (W)></translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
@@ -122,11 +122,11 @@
     </message>
     <message>
         <source>Input &amp;connection string manually</source>
-        <translation type="unfinished"></translation>
+        <translation type=Введення &amp;рядка підключення вручну></translation>
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation type=Пояснення></translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
