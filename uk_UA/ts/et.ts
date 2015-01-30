@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation type=Використовувати ODBC керівництво по з"'"єднанню з джерелом даних (W)></translation>
+        <translation type=Використовувати ODBC керівництво по з'єднанню з джерелом даних (W)></translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
